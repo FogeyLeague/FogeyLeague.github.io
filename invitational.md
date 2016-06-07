@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /invitational
+permalink: /invitational/
 published: true
 ---
 
