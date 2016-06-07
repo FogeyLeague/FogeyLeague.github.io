@@ -4,7 +4,7 @@ permalink: /invitational
 published: true
 ---
 ---
-layout: default
+layout: page
 title: invitational
 permalink: /invitational
 ---
