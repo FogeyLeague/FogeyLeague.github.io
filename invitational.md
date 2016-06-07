@@ -6,6 +6,7 @@ published: true
 ---
 layout: default
 title: invitational
+permalink: /invitational
 ---
 
 ## Summer Invitational
