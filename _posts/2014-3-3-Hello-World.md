@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Homepage
 published: true
 ---
 Welcome to the Fogey League homepage!
