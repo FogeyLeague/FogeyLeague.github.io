@@ -1,6 +1,11 @@
 ---
 layout: page
-permalink: /Invitational 
+permalink: /Invitational
+published: true
+---
+---
+layout: default
+title: Invitational
 ---
 
 ## Summer Invitational
