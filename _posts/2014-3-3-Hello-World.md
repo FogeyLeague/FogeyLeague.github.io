@@ -1,10 +1,10 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+Welcome to the Fogey League homepage!
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Fogey League is a community of players for [Heroes of the Storm](http://us.battle.net/heroes/en/).  It was created for players who want to have fun, group-oriented games in a healthy environment that accommodates people with potentially busy lives.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+We feature four teams on [Chair League](https://www.chairleague.com/), a recreational league for players to create teams and compete together.
