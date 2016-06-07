@@ -14,6 +14,6 @@ We are a quasi open community.  If you are interested in joining up or learning 
 
 ### Contact us
 
-[fogeyleague@gmail.com](mailto:fogeyleague@gmail.com)
+[Email fogeyleague@gmail.com](mailto:fogeyleague@gmail.com)
 
-[@fogeyleague](https://twitter.com/fogeyleague)
+[Twitter @fogeyleague](https://twitter.com/fogeyleague)
