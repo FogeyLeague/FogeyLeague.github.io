@@ -3,7 +3,11 @@ layout: page
 permalink: /invitational/
 published: true
 ---
+---
 
+layout: page
+permalink: /invitational/
+---
 
 ## Summer Invitational
 
