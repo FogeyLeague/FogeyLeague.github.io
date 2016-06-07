@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /nvitational
+layout: null
+permalink: /invitational
 published: true
 ---
 ---
