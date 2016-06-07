@@ -1,13 +1,9 @@
 ---
-layout: null
+layout: pages
 permalink: /invitational
 published: true
 ---
----
-layout: page
-title: invitational
-permalink: /invitational
----
+
 
 ## Summer Invitational
 
