@@ -12,8 +12,10 @@ We feature four teams on [Chair League](https://www.chairleague.com/), a recreat
 
 We are a quasi open community.  If you are interested in joining up or learning more what we are about, please reach out to us or one of our members!
 
-### Contact us
+### Find us online
 
 [Email fogeyleague@gmail.com](mailto:fogeyleague@gmail.com)
 
 [Twitter @fogeyleague](https://twitter.com/fogeyleague)
+
+[Twitch FogeyLeague](http//twitch.tv/fogeyleague)
