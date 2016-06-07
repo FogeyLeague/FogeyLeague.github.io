@@ -5,7 +5,7 @@ published: true
 ---
 ---
 layout: default
-title: Invitational
+title: invitational
 ---
 
 ## Summer Invitational
