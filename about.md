@@ -2,14 +2,18 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+Welcome to the Fogey League homepage!
 
-Some information about you!
+Fogey League is a community of players for [Heroes of the Storm](http://us.battle.net/heroes/en/).  It was created for players who want to have fun, group-oriented games in a healthy environment that accommodates people with potentially busy lives.
 
-### More Information
+We feature four teams on [Chair League](https://www.chairleague.com/), a recreational league for players to create teams and compete together.
 
-A place to include any other types of information that you'd like to include about yourself.
+We are a quasi open community.  If you are interested in joining up or learning more what we are about, please reach out to us or one of our members!
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[fogeyleague@gmail.com](mailto:fogeyleague@gmail.com)
+
+[@fogeyleague](https://twitter.com/fogeyleague)
