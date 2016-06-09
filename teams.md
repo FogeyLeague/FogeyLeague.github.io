@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /teams/
+---
+
 ## Fogey League Chair League Teams
 
 Fogey League has four active teams in the [Chair League](https://www.chairleague.com/) roster.
