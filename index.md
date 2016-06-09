@@ -35,5 +35,3 @@ We are a quasi open community.  If you are interested in joining up or learning 
   {% endfor %}
 </div>
 !-->
-
-x
