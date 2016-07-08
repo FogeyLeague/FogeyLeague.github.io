@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /teams/
+published: true
 ---
 
 ## Fogey League Chair League Teams
@@ -12,5 +13,6 @@ Fogey League has four active teams in the [Chair League](https://www.chairleague
 #### [Early Bedtime Fogeys](https://www.chairleague.com/teams/444)
 
 #### [Late Night Fogeys](https://www.chairleague.com/teams/603)
+[Highlight Reel, Volume 1](https://youtu.be/gI1XCiukLQU)
 
 #### [Arcus Senilis](https://www.chairleague.com/teams/721)
