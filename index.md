@@ -16,7 +16,7 @@ We are a quasi open community.  If you are interested in joining up or learning 
 
 [Twitter @fogeyleague](https://twitter.com/fogeyleague)
 
-[Twitch FogeyLeague](http//twitch.tv/fogeyleague)
+[Twitch FogeyLeague](http://twitch.tv/fogeyleague)
 
 
 <!--
